@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: url(./myImage.jpg);
+}
+
+p{
+    color: rgb(255, 0, 111);
+}
+
+h1{
+    color: rgb(0, 47, 255);
+}
+h2{
+    color: blue;
+}
+
+ul{
+    color: pink;
+}
